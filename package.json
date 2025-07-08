@@ -1,0 +1,15 @@
+{
+  "name": "multistub-query",
+  "version": "0.0.1",
+  "main": "mod.ts",
+  "files": [
+    "mod.ts"
+  ],
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250708.0"
+  },
+  "dependencies": {
+    "multistub": "^0.0.3",
+    "remote-sql-cursor": "^0.1.9"
+  }
+}
